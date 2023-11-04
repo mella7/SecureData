@@ -1,11 +1,13 @@
 # SecureData
+```
 
  __                             ___      _        <br>
 / _\ ___  ___ _   _ _ __ ___   /   \__ _| |_ __ _ <br>
 \ \ / _ \/ __| | | | '__/ _ \ / /\ / _` | __/ _` |<br>
 _\ \  __/ (__| |_| | | |  __// /_// (_| | || (_| |<br>
 \__/\___|\___|\__,_|_|  \___/___,' \__,_|\__\__,_|<br>
-
+|
+```
                                                   
 
 SecureData is a basic Python-based application that offers robust functionalities for user data security, encryption, and authentication. This project caters to two major aspects: Registration and Authentication, ensuring secure handling of sensitive information.
